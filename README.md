@@ -1,15 +1,11 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
-<H3>DATE:</H3>
 <H3>MEETHA PRABHU</H3>
 <H3>212222240065</H3>
 <H3>DATE: 04.05.2024</H3>
 <H1 Align="center">Project Based Experiment<H1>
 <H3>Objective:<H3>
-Type your objective based on the question
 To perform sentiment analysis using your Facebook data and count the number of Occurrences of <Your Name> 
+    
 <H3>Program:</H3>
-Insert your code here
 
 ```python
 import pandas as pd
@@ -51,7 +47,6 @@ print(f"Occurrences of '{given_name}': {name_occurrences}")
 
 ![image](https://github.com/Lavanyajoyce/Project-Based-Experiment-AAI/assets/119401038/4eafdfbb-6e23-4419-80de-e426016f95d9)
 
-Show your execution results here
 
 https://colab.research.google.com/drive/1cPrUz29_iheCRic21hyv-VCu5nQWQupQ#scrollTo=2L58Yz8tPHe5
 
